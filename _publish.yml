@@ -1,0 +1,4 @@
+- source: nps_2025_talk.qmd
+  quarto-pub:
+    - id: 24c658bb-5825-4589-8501-b1c29e748d5b
+      url: https://jeffreyrstevens.quarto.pub/nps2025
